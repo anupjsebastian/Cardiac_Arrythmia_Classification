@@ -55,6 +55,10 @@ The order in which the notebooks are presented are as follows:
 3. Model 2 KNN Classifier with Matrix Profiling.ipynb
 4. Model 3 Binary Classifier.ipynb
 
+## Utilities File
+
+A number of custom utility functions were used throughout the project. The code for these functions can be found in the *my_utils.py* file. 
+
 
 ## Presentation
 

@@ -1,8 +1,10 @@
+import pandas as pd
 import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score, f1_score, roc_auc_score
 import stumpy
+
 
 def rename_cols(df):
     """
@@ -109,9 +111,6 @@ def print_metric_results(y_train, y_test, train_preds, test_preds):
     print('Test F1 Score:', f1_score(y_test, test_preds, average = 'weighted'))
 
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 def plot_confusion_matrix(confusion_matrix, class_names, figsize = (10,7), fontsize=14):
 

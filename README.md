@@ -54,3 +54,9 @@ The order in which the notebooks are presented are as follows:
 2. Model 1 KNN Classifier.ipynb
 3. Model 2 KNN Classifier with Matrix Profiling.ipynb
 4. Model 3 Binary Classifier.ipynb
+
+
+## Presentation
+
+The slides for this project is included in the repository, named as *ECG Presentation.pdf*. It can also be found online at 
+https://www.canva.com/design/DADzFLtry7Y/riyFx5tWtwPqJSTbd-5pgA/view?utm_content=DADzFLtry7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink

@@ -34,7 +34,7 @@ The data was downloaded from: https://www.kaggle.com/shayanfazeli/heartbeat
 
 ## Additional Files Required
 
-Before running the files in this project, please download the files and add them to the project directory from the following link. This was placed in a separated location due to the storage limitations of GitHub.
+Before running the notebooks in this project, please download these additional files and add them to the project directory from the following link. They were uploaded separately because of the storage limitations of GitHub.
 
 https://mega.nz/#F!gipj0AIJ!iVgMOjtbSPuzurRcqRH_Ew
 

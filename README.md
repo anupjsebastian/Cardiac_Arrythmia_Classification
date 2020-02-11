@@ -1,6 +1,6 @@
 # Cardiac Arrythmia Classification
 
-[](https://i.pinimg.com/originals/85/b3/6c/85b36c3b9e97f2638e0b0e4da06047bd.jpg)
+
 
 ## Description
 
